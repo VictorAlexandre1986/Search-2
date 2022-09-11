@@ -9,4 +9,4 @@
 
 ## Visualização
 
-<img src="Video_1662913694.wmv">
+<img src="Video_1662913694.gif">
